@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(167, 197, 239);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 5%;
+}
