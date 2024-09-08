@@ -6,4 +6,17 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     margin: 5%;
+   
 }
+.a{
+    -webkit-text-size-adjust: 60%;
+}
+
+img{
+    
+    width: 30px;
+    height: 30px;
+    width: 30px;
+    height: 30px;
+}
+
