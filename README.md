@@ -1,2 +1,2 @@
-# teste
- meu primeiro curriculo feito em aula 
+Meu primeiro curriculo feito em uma pagina Web
+
