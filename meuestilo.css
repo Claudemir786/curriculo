@@ -16,11 +16,13 @@ body{
 
     text-align: center; /* utilizado para deixar o texto na area central da página */
     font-size:medium;
+    
  } 
 
 a:link {
 
     color: rgb(121, 121, 123);
+    
  }
    
 a:hover {  /* Cor ao passar o mouse sobre o link */
